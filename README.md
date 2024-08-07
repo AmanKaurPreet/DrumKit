@@ -15,4 +15,4 @@
    git clone https://github.com/AmanKaurPreet/drumkit-app.git
 
 
-- The live demo link is set as ``.
+- The live demo link is set as `https://amankaurpreet.github.io/DrumKit/`.
